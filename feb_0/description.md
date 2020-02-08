@@ -1,14 +1,14 @@
-#***2H Programming Arithmetic Challenge - Primes which are the difference of consecutive cubes*** 
+# ***2H Programming Arithmetic Challenge - Primes which are the difference of consecutive cubes*** 
 
-##**Task**
+## **Task**
 Make a programme that calculates prime numbers which also a difference between two consecutive cubes. The programme should stop at the 10000th number in this series, and correctly output the number.
 
-###*Expected Output*
-1: 7
-2: 19
+### *Expected Output*
+1: 7  
+2: 19  
 ...
 
-###*Limitations*
+### *Limitations*
 - Time used < 40 seconds
 - Character count < 1000
 
