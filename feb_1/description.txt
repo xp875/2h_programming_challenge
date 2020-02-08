@@ -1,0 +1,33 @@
+***Arithmetic Challenge: Factor-3-up***
+
+***Summary***
+For any positive integer n, let d(n) be the number of positive integer divisors of n. For example, d(12) = 6 because 12 has 6 factors: 1, 2, 3, 4, 6, and 12.  
+Find numbers that have exactly 3 or 6 factors.  
+
+ 
+
+TASK 
+Write a computer programme to calculate and output all positive integers n not exceeding 100,000 such that n has exactly 3 or 6 factors. (n ≤ 100,000; d(n) = 3 or 6).  
+
+Your program should output all the numbers to the standard output in ascending order, each on a new line. The first few numbers are shown below in the expected format:  
+
+4 
+9 
+12 
+18 
+... 
+
+Code character count limit: 10,000 
+Running time limit: 10 min 
+Memory limit: 256 MB 
+Warning: Do not plagiarise code from others or the internet 
+
+ 
+
+***GRADING***
+These will add up to your score:
+(number of correct numbers outputted)^2 / (total number of correct numbers based on the model answer) / (total number of numbers outputted)* 100, rounded down to the nearest integer
+(time taken by your program to finish running in seconds) bonus points, rounded off to the nearest integer
+
+Additional Restrictions:
+If the output is not in sorted order, 15 points will be deducted.
